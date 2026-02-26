@@ -24,10 +24,12 @@
 Thordata is the next‑generation web data and proxy infrastructure built for the **AI era**, providing a stable, scalable **AI‑native web data layer** for developers and agents.  
 Unlike traditional scraping vendors that only focus on raw HTML, Thordata is designed from the ground up for **LLMs, RAG systems, and agents**, delivering clean, structured web data directly into your AI workflows.
 
-- **100M+ requests / day** across mission‑critical and enterprise workloads  
-- **100M+ compliant Residential / Mobile / ISP IPs** in 180+ locations worldwide  
-- **Web Unlocker & Scraping Browser** to abstract away fingerprints, captchas, and JS rendering  
+- **100M+ ethically sourced proxy IPs** (Residential / Mobile / ISP / Datacenter) across **190+ countries**  
+- **99.9% uptime** and high success rates for mission‑critical workloads  
+- **120+ scraper APIs and managed datasets** to power AI, analytics, and automation use cases  
 - **MCP / LangChain / SDK integrations** to plug Thordata directly into your agents and data pipelines
+
+Trusted by **4,000+ enterprises**, Thordata provides compliant data solutions built on **GDPR, CCPA, and KYC** standards, with **SOC 2 & ISO 27001** certifications in progress. 
 
 ---
 
@@ -42,6 +44,27 @@ All capabilities are exposed through a single, consistent interface—fast enoug
 
 ---
 
+## 🌐 Proxy Solutions
+
+Enterprise‑grade proxy infrastructure for large‑scale, compliant web data collection:
+
+| Product | Description |
+| :--- | :--- |
+| **Residential Proxies** | Over **100M+ real residential IPs** from genuine users across **190+ countries**. Ideal for high‑trust platforms and geo‑sensitive workloads. |
+| **Mobile Proxies** | Reliable mobile data extraction powered by real **4G/5G mobile IPs**, built for mobile‑only content and app verification. |
+| **Static ISP Proxies** | Residential‑class IPs with unlimited bandwidth for time‑sensitive tasks, long‑lived sessions, and login flows. |
+| **Datacenter Proxies** | Fast, cost‑efficient IPs optimized for bulk crawling, monitoring, and large‑scale scraping. |
+
+Key benefits:
+
+- **99.9% uptime** and high success rates  
+- Fine‑grained geo‑targeting down to country / region / city / ASN  
+- Unified console and APIs for configuration, rotation, and monitoring  
+
+For a full overview, see the **Proxy Solutions** section on the Thordata website.  
+
+---
+
 ## 🧠 AI & LLM Integrations
 
 Give your agents and LLMs real‑time **browsing, search, and monitoring** superpowers:
@@ -49,8 +72,8 @@ Give your agents and LLMs real‑time **browsing, search, and monitoring** super
 | Repository | Description | Status |
 | :--- | :--- | :--- |
 | [**thordata-mcp-server**](https://github.com/Thordata/thordata-mcp-server) | 🤖 **AI Bridge**: MCP server that connects Claude Desktop / OpenAI clients directly to Thordata web data. | ✅ Stable |
-| [**thordata-rag-pipeline**](https://github.com/Thordata/thordata-rag-pipeline) | 🔍 **RAG Pipeline**: End‑to‑end pipeline to clean → structure → chunk → embed web data for retrieval. | 🚧 Beta |
-| [**thordata-langchain-tools**](https://github.com/Thordata/thordata-langchain-tools) | 🦜🔗 **LangChain Tools**: Official toolset that turns Thordata into plug‑and‑play browsing / scraping tools. | 🚧 TBD |
+| [**thordata-rag-pipeline**](https://github.com/Thordata/thordata-rag-pipeline) | 🔍 **RAG Pipeline**: End‑to‑end pipeline to clean → structure → chunk → embed web data for retrieval. | 🟠 Evolving |
+| [**thordata-langchain-tools**](https://github.com/Thordata/thordata-langchain-tools) | 🦜🔗 **LangChain Tools**: Official toolset that turns Thordata into plug‑and‑play browsing / scraping tools. | 🟠 Evolving |
 
 ---
 
@@ -77,12 +100,37 @@ From raw HTML to structured JSON, Thordata hides the complexity so you can focus
 
 You describe the data you want; the infrastructure handles the rest.
 
+### Scrapers & Datasets
+
+Beyond core APIs, Thordata offers specialized scrapers and AI‑ready datasets:
+
+- **Web Scraper API**: 120+ prebuilt and custom scrapers for top websites—no infrastructure or maintenance required.  
+- **SERP API**: Accurate, real‑time search results from Google, Bing, and more, with pay‑for‑success pricing.  
+- **Web Unlocker**: Enterprise‑grade anti‑bot and CAPTCHA bypass layer for frictionless scraping at scale.  
+- **Scraping Browser**: Stealth browser environment to execute scripts with full JS rendering and automation.  
+- **Datasets & Video Data**: Ready‑to‑use datasets from 100+ domains, plus large‑scale video data and metadata for multimodal AI training.  
+
 **Companion repositories (selected):**
 
 - [**thordata-web-qa-agent**](https://github.com/Thordata/thordata-web-qa-agent): Web‑native QA agent built on Thordata (Perplexity‑style experience on your own stack).  
 - [**google-play-reviews-rag**](https://github.com/Thordata/google-play-reviews-rag): Turns app‑store reviews into a production‑grade RAG knowledge base.  
 - [**apify-amazon-search-product-scraper**](https://github.com/Thordata/apify-amazon-search-product-scraper): Multi‑marketplace Amazon search & product scraper with filters and enrichment.  
 - [**thordata-proxy-examples**](https://github.com/Thordata/thordata-proxy-examples): End‑to‑end examples of proxy configuration, rotation, and Web Unlocker usage.  
+
+---
+
+## 🧠 AI & Data Use Cases
+
+Thordata powers end‑to‑end data workflows across industries:
+
+- **Data for AI**: Feed clean, structured web and video data into LLM training, fine‑tuning, and RAG systems.  
+- **E‑Commerce Intelligence**: Price monitoring, catalog enrichment, and competitive benchmarking across global marketplaces.  
+- **SERP Monitoring & SEO**: Keyword tracking, local SEO insights, and competitor analysis from Google, Bing, and other search engines.  
+- **Brand Protection**: Detect impersonation, counterfeits, and policy violations using high‑quality web data at scale.  
+- **Ad Verification**: Monitor ad placement, compliance, and creative rendering across geos and devices.  
+- **Security & Risk**: Support cybersecurity and fraud‑prevention workflows with privacy‑preserving, geo‑distributed data access.  
+
+These use cases are detailed further in the **Use Cases** sections of the Thordata website and documentation.  
 
 ---
 
@@ -148,7 +196,7 @@ We build Thordata in close collaboration with the developer community:
 
 - 🐛 **Bug reports**: Open an Issue in the corresponding repository.  
 - 💡 **Feature requests / Roadmap**: Check [GitHub Projects](https://github.com/orgs/Thordata/projects) or start a Discussion.  
-- 📧 **Enterprise & high‑volume use cases (> 1TB / month)**: Reach out to `business@thordata.com`.  
+- 📧 **Enterprise & partnership inquiries**: Contact `partner@thordata.com`.  
 
 <br>
 
