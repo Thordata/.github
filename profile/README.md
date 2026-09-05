@@ -1,49 +1,85 @@
-# Thordata Video Data
+# Thordata
 
-Open resources for video data, video intelligence, and AI data infrastructure.
+Data infrastructure for AI, web intelligence, and automation.
 
-Thordata helps teams build video AI systems with curated multi-platform video datasets, a Video Data API, and practical tooling for dataset discovery, evaluation, and retrieval.
+Thordata provides proxy infrastructure, web data APIs, datasets, and developer resources for teams that need to collect, structure, and use data at scale.
 
-## Who This Is For
+## What We Build
 
-- Vision-language and multimodal language model teams
-- Embodied AI and robotics teams
-- Video retrieval and computer vision researchers
-- AI data, data engineering, and ML platform teams
+### Proxy Infrastructure
+
+Global proxy solutions for legitimate web data collection, testing, monitoring, and automation workflows.
+
+- [Residential Proxies](https://www.thordata.com/products/residential-proxies)
+- [Mobile Proxies](https://www.thordata.com/products/mobile-proxies)
+- [Datacenter Proxies](https://www.thordata.com/products/datacenter-proxies)
+
+### Scraping Solutions
+
+Tools and APIs for accessing and processing structured web data.
+
+- [SERP API](https://www.thordata.com/products/serp-api)
+- [Web Scraper API](https://www.thordata.com/products/web-scraper-api)
+- [Web Unlocker](https://www.thordata.com/products/web-unlocker)
+- [Scraping Browser](https://www.thordata.com/products/scraping-browser)
+
+### Datasets And Video Data
+
+Thordata provides datasets and multimodal data resources for AI and data workflows.
+
+Our data solutions include:
+
+- Web and domain-specific datasets
+- Video datasets and video metadata
+- Text, image, video, audio, and 3D data
+- Ready-to-use and custom data solutions
+
+Explore the [Thordata Video Data platform](https://www.thordata.com/products/multi-platform-video-datasets).
+
+### Developer Resources
+
+We publish SDKs, examples, documentation, and integrations to help developers connect data services with their applications and data pipelines.
+
+Visit the [Thordata documentation](https://doc.thordata.com) to learn more.
+
+## Built For
+
+Thordata supports teams working on:
+
+- AI and large language model applications
+- Retrieval-augmented generation
+- Web intelligence and market research
+- Data engineering and automation
+- Computer vision and multimodal AI
+- Video understanding and retrieval
+- Analytics and monitoring
 
 ## Open Source
 
-We publish practical code, examples, and documentation for video data workflows as each resource becomes available. Visit the organization's repositories to explore currently public projects.
+Explore the organization's public repositories for SDKs, examples, integrations, data tools, and other developer resources.
 
-## Product
+Each repository may have its own scope, license, dependencies, and usage restrictions. Please read the repository README and license before using its code or data.
 
-Need video data for training, evaluation, retrieval, or production pipelines?
+## Responsible Use
 
-Explore the [Thordata Video Data platform](https://www.thordata.com/products/multi-platform-video-datasets?utm_source=github&utm_medium=org_profile&utm_campaign=video_data) or [contact our team](https://www.thordata.com/contact-us?utm_source=github&utm_medium=org_profile&utm_campaign=video_data).
+Use Thordata services and public resources only for lawful and authorized purposes.
 
-## Responsible Data Use
+When working with web or multimedia data:
 
-Every public repository must document the provenance and permitted use of its data. Before release, maintainers must verify and record:
+- Follow applicable laws and regulations
+- Respect source-platform terms and access restrictions
+- Respect intellectual property, privacy, and publicity rights
+- Do not collect or use personal data unlawfully
+- Do not attempt to access restricted systems or bypass access controls
+- Review the applicable data license and usage restrictions before redistribution or AI-related use
 
-- Source, collection method, and rights or authorization basis for every sample asset
-- Applicable license and whether commercial use is permitted
-- Whether AI training, evaluation, modification, and redistribution are permitted
-- Restrictions covering derived data, metadata, subtitles, audio, comments, and personal information
-- Removal or redaction of any asset that cannot be publicly redistributed under the stated terms
+For more information, read the [Thordata Acceptable Use Policy](https://www.thordata.com/acceptable-use-policy).
 
-Do not upload unauthorized video, audio, subtitles, comments, personal information, credentials, or access-controlled source material.
+## Get Started
 
-Repository READMEs should include appropriate data documentation, licensing information, usage examples, and a clear compliance notice. If a repository contains no downloadable media, state that explicitly and link to the applicable metadata or access policy.
+- [Visit Thordata](https://www.thordata.com/?ls=github&lk=thordata)
+- [Read the documentation](https://doc.thordata.com)
+- [Explore Video Data](https://www.thordata.com/products/multi-platform-video-datasets)
+- [Contact the Thordata team](https://www.thordata.com/contact-us)
 
-## Getting Started
-
-1. Choose the repository that matches your workflow.
-2. Read its README, data documentation, license, and acceptable-use restrictions.
-3. Follow the documented setup and reproducible example.
-4. Report technical issues through the repository's Issues tab and data or rights questions through its documented contact channel.
-
-## Collaboration
-
-We welcome reproducible examples, documentation improvements, benchmark feedback, and corrections to dataset licensing information. Please read each repository's contribution guide before opening a pull request.
-
-For security or privacy issues, use the repository's security contact rather than publishing sensitive details in an issue.
+For technical questions, open an issue in the relevant repository. For commercial, data access, or partnership questions, use the official contact page.
