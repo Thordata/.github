@@ -2,13 +2,13 @@
 
 Data infrastructure for AI, web intelligence, and automation.
 
-Thordata provides proxy infrastructure, web data APIs, datasets, and developer tools for teams that need to collect, structure, and use data at scale.
+Thordata provides proxy infrastructure, web data APIs, datasets, and developer resources for teams that need to collect, structure, and use data at scale.
 
 ## What We Build
 
 ### Proxy Infrastructure
 
-Global proxy solutions for web data collection, testing, monitoring, and other legitimate data workflows.
+Global proxy solutions for legitimate web data collection, testing, monitoring, and automation workflows.
 
 - [Residential Proxies](https://www.thordata.com/products/residential-proxies)
 - [Mobile Proxies](https://www.thordata.com/products/mobile-proxies)
@@ -25,21 +25,20 @@ Tools and APIs for accessing and processing structured web data.
 
 ### Datasets And Video Data
 
-Structured datasets for analytics, AI workflows, and multimodal applications.
+Thordata provides datasets and multimodal data resources for AI and data workflows.
 
 Our data solutions include:
 
 - Web and domain-specific datasets
 - Video datasets and video metadata
-- Video and audio data for multimodal workflows
-- Custom data collection and delivery
-- API and cloud-based data access
+- Text, image, video, audio, and 3D data
+- Ready-to-use and custom data solutions
 
 Explore the [Thordata Video Data platform](https://www.thordata.com/products/multi-platform-video-datasets).
 
-### Developer Tools And Integrations
+### Developer Resources
 
-We publish SDKs, examples, documentation, and integrations to help developers connect data services with their applications and pipelines.
+We publish SDKs, examples, documentation, and integrations to help developers connect data services with their applications and data pipelines.
 
 Visit the [Thordata documentation](https://doc.thordata.com) to learn more.
 
@@ -78,7 +77,7 @@ For more information, read the [Thordata Acceptable Use Policy](https://www.thor
 
 ## Get Started
 
-- [Visit Thordata](https://www.thordata.com)
+- [Visit Thordata](https://www.thordata.com/?ls=github&lk=thordata)
 - [Read the documentation](https://doc.thordata.com)
 - [Explore Video Data](https://www.thordata.com/products/multi-platform-video-datasets)
 - [Contact the Thordata team](https://www.thordata.com/contact-us)
