@@ -5,6 +5,7 @@ Proxy infrastructure and web data APIs for AI, web intelligence, and automation.
 Thordata helps teams access, collect, structure, and use web data through
 proxy networks, scraping APIs, browser automation, SDKs, and AI integrations.
 
+[Start with Thordata](https://www.thordata.com/?ls=github&lk=thordata) ·
 [Open Dashboard](https://dashboard.thordata.com) ·
 [Read the Documentation](https://doc.thordata.com) ·
 [Contact Thordata](https://www.thordata.com/contact-us)
@@ -16,6 +17,7 @@ and automation workflows.
 
 - [Residential Proxies](https://www.thordata.com/products/residential-proxies)
 - [Mobile Proxies](https://www.thordata.com/products/mobile-proxies)
+- [Static ISP Proxies](https://www.thordata.com/products/isp-proxies)
 - [Datacenter Proxies](https://www.thordata.com/products/datacenter-proxies)
 
 Common capabilities include geographic targeting, session control, IP
@@ -95,6 +97,7 @@ See the [Thordata Acceptable Use Policy](https://www.thordata.com/acceptable-use
 
 ## Get Started
 
+- [Start with Thordata](https://www.thordata.com/?ls=github&lk=thordata)
 - [Open the Dashboard](https://dashboard.thordata.com)
 - [Read the Documentation](https://doc.thordata.com)
 - [Browse Proxy Products](https://www.thordata.com/products/residential-proxies)
