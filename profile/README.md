@@ -1,85 +1,106 @@
 # Thordata
 
-Data infrastructure for AI, web intelligence, and automation.
+Proxy infrastructure and web data APIs for AI, web intelligence, and automation.
 
-Thordata provides proxy infrastructure, web data APIs, datasets, and developer resources for teams that need to collect, structure, and use data at scale.
+Thordata helps teams access, collect, structure, and use web data through
+proxy networks, scraping APIs, browser automation, SDKs, and AI integrations.
 
-## What We Build
+[Open Dashboard](https://dashboard.thordata.com) ·
+[Read the Documentation](https://doc.thordata.com) ·
+[Contact Thordata](https://www.thordata.com/contact-us)
 
-### Proxy Infrastructure
+## Proxy Infrastructure
 
-Global proxy solutions for legitimate web data collection, testing, monitoring, and automation workflows.
+Global proxy solutions for lawful web data collection, testing, monitoring,
+and automation workflows.
 
 - [Residential Proxies](https://www.thordata.com/products/residential-proxies)
 - [Mobile Proxies](https://www.thordata.com/products/mobile-proxies)
 - [Datacenter Proxies](https://www.thordata.com/products/datacenter-proxies)
 
-### Scraping Solutions
+Common capabilities include geographic targeting, session control, IP
+rotation, and proxy access for supported web data workflows.
 
-Tools and APIs for accessing and processing structured web data.
+## Web Data APIs
+
+Tools for searching, collecting, unlocking, rendering, and processing
+structured web data.
 
 - [SERP API](https://www.thordata.com/products/serp-api)
 - [Web Scraper API](https://www.thordata.com/products/web-scraper-api)
 - [Web Unlocker](https://www.thordata.com/products/web-unlocker)
 - [Scraping Browser](https://www.thordata.com/products/scraping-browser)
 
-### Datasets And Video Data
+## Developer Entry Points
 
-Thordata provides datasets and multimodal data resources for AI and data workflows.
+| Need | Start here |
+| --- | --- |
+| Python integration | [thordata-python-sdk](https://github.com/Thordata/thordata-python-sdk) |
+| JavaScript or TypeScript integration | [thordata-js-sdk](https://github.com/Thordata/thordata-js-sdk) |
+| Go integration | [thordata-go-sdk](https://github.com/Thordata/thordata-go-sdk) |
+| Java integration | [thordata-java-sdk](https://github.com/Thordata/thordata-java-sdk) |
+| Copy-paste proxy examples | [thordata-proxy-examples](https://github.com/Thordata/thordata-proxy-examples) |
+| Python SDK examples and AI recipes | [thordata-cookbook](https://github.com/Thordata/thordata-cookbook) |
+| MCP integration | [thordata-mcp](https://github.com/Thordata/thordata-mcp) |
+| LangChain integration | [thordata-langchain-tools](https://github.com/Thordata/thordata-langchain-tools) |
+| n8n integration | [n8n-nodes-thordata](https://github.com/Thordata/n8n-nodes-thordata) |
 
-Our data solutions include:
+## AI And Automation
 
-- Web and domain-specific datasets
-- Video datasets and video metadata
-- Text, image, video, audio, and 3D data
-- Ready-to-use and custom data solutions
+Connect Thordata services to modern AI and automation workflows.
 
-Explore the [Thordata Video Data platform](https://www.thordata.com/products/multi-platform-video-datasets).
+- [Thordata MCP](https://github.com/Thordata/thordata-mcp)
+- [Thordata LangChain Tools](https://github.com/Thordata/thordata-langchain-tools)
+- [Thordata Cookbook](https://github.com/Thordata/thordata-cookbook)
+- [Thordata RAG Pipeline](https://github.com/Thordata/thordata-rag-pipeline)
+- [Thordata Web QA Agent](https://github.com/Thordata/thordata-web-qa-agent)
 
-### Developer Resources
+## Datasets And Video Data
 
-We publish SDKs, examples, documentation, and integrations to help developers connect data services with their applications and data pipelines.
+Datasets and multimodal data resources are a secondary part of the Thordata
+data offering.
 
-Visit the [Thordata documentation](https://doc.thordata.com) to learn more.
+- [First-Person Driving Video Sample](https://github.com/Thordata/egocentric-video-sample)
+- [Licensed Video Dataset Catalog](https://github.com/Thordata/awesome-licensed-video-datasets)
+- [Video Dataset Toolkit](https://github.com/Thordata/video-dataset-toolkit)
+- [Video Data Platform](https://www.thordata.com/products/multi-platform-video-datasets)
 
 ## Built For
 
 Thordata supports teams working on:
 
-- AI and large language model applications
-- Retrieval-augmented generation
-- Web intelligence and market research
+- Web scraping and SERP workflows
+- AI agents and retrieval-augmented generation
+- Market research and web intelligence
 - Data engineering and automation
+- Browser automation and monitoring
 - Computer vision and multimodal AI
 - Video understanding and retrieval
-- Analytics and monitoring
-
-## Open Source
-
-Explore the organization's public repositories for SDKs, examples, integrations, data tools, and other developer resources.
-
-Each repository may have its own scope, license, dependencies, and usage restrictions. Please read the repository README and license before using its code or data.
 
 ## Responsible Use
 
-Use Thordata services and public resources only for lawful and authorized purposes.
+Use Thordata services and public resources only for lawful and authorized
+purposes.
 
 When working with web or multimedia data:
 
-- Follow applicable laws and regulations
-- Respect source-platform terms and access restrictions
-- Respect intellectual property, privacy, and publicity rights
-- Do not collect or use personal data unlawfully
-- Do not attempt to access restricted systems or bypass access controls
-- Review the applicable data license and usage restrictions before redistribution or AI-related use
+- Follow applicable laws and regulations.
+- Respect source-platform terms and access restrictions.
+- Respect intellectual property, privacy, and publicity rights.
+- Do not collect or use personal data unlawfully.
+- Do not attempt to access restricted systems or bypass access controls.
+- Review applicable data licenses before redistribution or AI-related use.
 
-For more information, read the [Thordata Acceptable Use Policy](https://www.thordata.com/acceptable-use-policy).
+See the [Thordata Acceptable Use Policy](https://www.thordata.com/acceptable-use-policy).
 
 ## Get Started
 
-- [Visit Thordata](https://www.thordata.com/?ls=github&lk=thordata)
-- [Read the documentation](https://doc.thordata.com)
-- [Explore Video Data](https://www.thordata.com/products/multi-platform-video-datasets)
-- [Contact the Thordata team](https://www.thordata.com/contact-us)
+- [Open the Dashboard](https://dashboard.thordata.com)
+- [Read the Documentation](https://doc.thordata.com)
+- [Browse Proxy Products](https://www.thordata.com/products/residential-proxies)
+- [Browse Web Data APIs](https://www.thordata.com/products/serp-api)
+- [Contact the Thordata Team](https://www.thordata.com/contact-us)
 
-For technical questions, open an issue in the relevant repository. For commercial, data access, or partnership questions, use the official contact page.
+For technical questions, open an issue in the relevant repository. For
+commercial, data access, or partnership questions, use the official contact
+page.
